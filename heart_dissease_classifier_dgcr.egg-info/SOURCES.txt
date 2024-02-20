@@ -19,9 +19,9 @@ classifier_model/processing/data_manager.py
 classifier_model/processing/validation.py
 classifier_model/trained_models/__init__.py
 classifier_model/trained_models/classifier_model_output_v0.0.1.pkl
+heart_dissease_classifier_dgcr.egg-info/PKG-INFO
+heart_dissease_classifier_dgcr.egg-info/SOURCES.txt
+heart_dissease_classifier_dgcr.egg-info/dependency_links.txt
+heart_dissease_classifier_dgcr.egg-info/requires.txt
+heart_dissease_classifier_dgcr.egg-info/top_level.txt
 tests/test_prediction.py
-tid_davidgcr_classifier_model.egg-info/PKG-INFO
-tid_davidgcr_classifier_model.egg-info/SOURCES.txt
-tid_davidgcr_classifier_model.egg-info/dependency_links.txt
-tid_davidgcr_classifier_model.egg-info/requires.txt
-tid_davidgcr_classifier_model.egg-info/top_level.txt

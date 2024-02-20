@@ -6,7 +6,7 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = 'tid-davidgcr_classifier-model'
+NAME = 'heart-dissease-classifier-dgcr'
 DESCRIPTION = "E2E classifier for heart disease."
 URL = "https://github.com/davidGCR/test_rimac"
 EMAIL = "dchoqueluque@gmail.com"
